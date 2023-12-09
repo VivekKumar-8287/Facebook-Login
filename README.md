@@ -1,7 +1,7 @@
 # Facebook Login Page
 
 Facebook Login Page with SignUp, Login or Logout feature
-Currently, two official plugins are available:
+Click this link to reirect to site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Facebook Login Clone](https://facebool-login.netlify.app/)
+-
